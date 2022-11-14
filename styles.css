@@ -1,0 +1,108 @@
+/* navbar */
+.nav-link{
+    margin: 5px 6px;
+}
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+
+}
+/* heade */
+#header{
+    background-color: rgb(70, 68, 68);
+    padding: 15% 15%;
+    text-align: center;
+}
+.headerimg{
+    width: 100%;
+    text-align: center;
+    border-radius: 10%
+}
+.carousel-control-next{
+    margin: 0 0 50px 0;
+}
+.hheading{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+.hp{
+    color: rgb(253, 219, 155);
+}
+/* introdu */
+#intro{
+    text-align: center;
+    padding: 5rem;
+}
+.main-heading{
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+.introimage{
+    width: 50%;
+    margin-top: 10px;
+    border-radius: 100%
+    
+}
+/* services */
+#services{
+    background-color: rgb(70, 68, 68);
+    padding: 3% 0%;
+}
+
+
+.servicehead{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Righteous', cursive;
+}
+.servicecard{
+    text-align: center;
+    color: azure;
+    margin: 5px 0px;
+    
+   
+}
+.service-icon{
+    margin:30% 20%  ;
+    color: rgb(240, 123, 27);
+}
+.service-icon:hover{
+    color: rgb(236, 158, 95);
+    
+}
+.servciceheads{
+    font-family: 'Fjalla One', sans-serif;
+}
+.client{
+    text-align: center;
+}
+.worksdes{
+    color: grey;
+}
+/* contacts */
+#contact{
+    background-color: rgb(70, 68, 68);
+    padding: 7% 10%;
+    text-align: center;
+}
+.contacticon{
+    color: rgb(255, 140, 64);
+    margin: 5px 10px;
+}
+.contacticon:hover{
+    color: rgb(236, 175, 104);
+}
+#footer{
+    padding: 7% 10%;
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    color: white;
+}
+h4{
+    color: aliceblue;
+}
+a{
+    text-decoration: solid;
+    color: rgb(236, 167, 88);
+    
+}
