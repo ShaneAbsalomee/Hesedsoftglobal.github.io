@@ -98,8 +98,8 @@
     background-color: rgb(24, 24, 24);
     color: white;
 }
-h4{
-    color: aliceblue;
+.call{
+    color: rgb(235, 241, 247);
 }
 .number{
     text-decoration: solid;
