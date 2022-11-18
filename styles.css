@@ -8,7 +8,7 @@
 }
 /* heade */
 #header{
-    background-color: rgb(70, 68, 68);
+    background-color: rgb(44, 44, 44);
     padding: 15% 15%;
     text-align: center;
 }
@@ -45,14 +45,16 @@
 }
 /* services */
 #services{
-    background-color: rgb(70, 68, 68);
-    padding: 3% 0%;
+    background-color: rgb(44, 44, 44);
+    padding: 5%;
+    text-align: center;
 }
+
 
 
 .servicehead{
     text-align: center;
-    color: rgb(255, 255, 255);
+   color: aliceblue;
     font-family: 'Righteous', cursive;
 }
 .servicecard{
@@ -63,8 +65,8 @@
    
 }
 .service-icon{
-    margin:30% 20%  ;
-    color: rgb(240, 123, 27);
+    margin:30% 10%  ;
+    color: rgb(255, 115, 0);
 }
 .service-icon:hover{
     color: rgb(236, 158, 95);
@@ -76,17 +78,41 @@
 .client{
     text-align: center;
 }
+/* works  */
+#works{
+    text-align: center;
+    background-color: rgb(70, 70, 70);
+    color: aliceblue;
+
+}
+.workimg{
+    width: 100%;
+    border: 2%;
+}
+.workcol{
+    padding: 7%;
+}
 .worksdes{
     color: grey;
 }
+.pagelinks{
+    text-decoration: solid;
+    color: rgb(255, 94, 0);
+    font-weight: bold;
+}
+#sjmotors{
+    background-color: rgb(19, 26, 44);
+    padding-top: 5%;
+}
 /* contacts */
 #contact{
-    background-color: rgb(70, 68, 68);
+    background-color: rgb(92, 92, 92);
     padding: 7% 10%;
     text-align: center;
+    color: black;
 }
 .contacticon{
-    color: rgb(255, 140, 64);
+    color: rgb(255, 102, 0);
     margin: 5px 10px;
 }
 .contacticon:hover{
@@ -103,6 +129,6 @@
 }
 .number{
     text-decoration: solid;
-    color: rgb(236, 167, 88);
+    color: rgb(255, 136, 0);
     
 }
