@@ -87,7 +87,7 @@
 }
 .workimg{
     width: 100%;
-    border: 2%;
+    border-radius: 4%;
 }
 .workcol{
     padding: 7%;
