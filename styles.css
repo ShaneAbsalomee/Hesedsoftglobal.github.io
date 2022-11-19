@@ -83,11 +83,13 @@
     text-align: center;
     background-color: rgb(70, 70, 70);
     color: aliceblue;
+    padding: 5%;
 
 }
 .workimg{
     width: 100%;
-    border-radius: 4%;
+    border-radius: 5%;
+    margin: 5% 0 5% 0;
 }
 .workcol{
     padding: 7%;
@@ -102,7 +104,8 @@
 }
 #sjmotors{
     background-color: rgb(19, 26, 44);
-    padding-top: 5%;
+    padding: 5%;
+    border-radius: 5%;
 }
 /* contacts */
 #contact{
