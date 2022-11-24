@@ -107,6 +107,14 @@
     padding: 5%;
     border-radius: 5%;
 }
+#shane{
+    background-color: rgb(18, 18, 19);
+    padding: 5%;
+    border-radius: 5%;
+    margin-top: 2%;
+}
+
+
 /* contacts */
 #contact{
     background-color: rgb(92, 92, 92);
