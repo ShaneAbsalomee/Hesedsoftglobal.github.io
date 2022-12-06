@@ -6,7 +6,7 @@
     background-color: rgb(17, 16, 16);
    padding: 15%;
    
-  background-image:linear-gradient(to right,rgba(19, 18, 18, 0.507),rgb(65, 64, 64))
+  background-image:linear-gradient(to bottom,rgba(19, 18, 18, 0.685),rgb(65, 64, 64))
 }
 .container,.hheading {
     position: relative;
